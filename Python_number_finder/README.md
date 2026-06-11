@@ -98,7 +98,7 @@ By building this project, I learned how to:
 ```
 /Python_number_finder
 │
-├── even_odd.py
+├── num_finder.py
 └── README.md
 ```
 
