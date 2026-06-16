@@ -30,13 +30,13 @@ A simple Python program that calculates a student's total marks, percentage, and
 
 # 📊 Grade System
 
-Percentage| Grade
-90% and above| A+
-80% - 89%| A
-70% - 79%| B
-60% - 69%| C
-35% - 59%| D
-Below 35%| FAIL
+- Percentage| Grade
+- 90% and above| A+
+- 80% - 89%| A
+- 70% - 79%| B
+- 60% - 69%| C
+- 35% - 59%| D
+- Below 35%| FAIL
 
 # ▶️ How to Run
 
