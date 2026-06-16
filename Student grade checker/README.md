@@ -69,13 +69,13 @@ A simple Python program that calculates a student's total marks, percentage, and
 - Conditional Statements
 - Output Formatting
 
-📂 Project Level
+# 📂 Project Level
 
 🟢 Beginner Python Project
 
 Perfect for students learning Python fundamentals and practicing basic programming logic.
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Suman M
 
