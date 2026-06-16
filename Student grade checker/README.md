@@ -45,7 +45,7 @@ A simple Python program that calculates a student's total marks, percentage, and
 3. Open a terminal in the project folder.
 4. Run:
 
-python student_marks.py
+  python student_marks.py
 
 5. Enter the student's details and subject marks.
 
